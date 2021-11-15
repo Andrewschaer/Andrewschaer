@@ -5,7 +5,7 @@
 - 🍕 &nbsp; Based out of NYC
 - 🎓 &nbsp; Recent grad from Lambda School's Full Stack Web Dev Bootcamp
 - 🏥 &nbsp; Prior experience working as a Product Manager in Heathcare Tech
-- 🤝 &nbsp; Open for project collaboration and internship opportunities
+- 🤝 &nbsp; Open for open-source project collaboration and other interesting opportunities
 
 <h3>🛠 Tech Stack</h3>
 

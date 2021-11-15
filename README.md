@@ -17,7 +17,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Andrewschaer&show_icons=true)
 
-### 📫🤝🏻 Connect with Me
+### 📫 Connect with Me
 
  - Reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewschaer/) 👨🏻‍💻
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Andrewschaer)

@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Andrew 👋
 
-<!--
-**Andrewschaer/Andrewschaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🍕 &nbsp; Based out of NYC
+- 🎓 &nbsp; Recent grad from Lambda School's Full Stack Web Dev Bootcamp.
+- 🏥 &nbsp; Prior experience working as a Product Manager in Heathcare Tech
+- Open for project collaboration and internship opportunities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Python
+- 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Node.js | Express
+- 🛢 &nbsp; SQLite3 | PostgreSQL | Knex
+- 🔧 &nbsp; Git | Postman API 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Andrewschaer&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewschaer/) 👨🏻‍💻
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Andrewschaer)
+

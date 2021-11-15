@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🍕 &nbsp; Based out of NYC
-- 🎓 &nbsp; Recent grad from Lambda School's Full Stack Web Dev Bootcamp.
+- 🎓 &nbsp; Recent grad from Lambda School's Full Stack Web Dev Bootcamp
 - 🏥 &nbsp; Prior experience working as a Product Manager in Heathcare Tech
-- Open for project collaboration and internship opportunities. 
+- Open for project collaboration and internship opportunities
 
 <h3>🛠 Tech Stack</h3>
 
@@ -19,6 +19,6 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewschaer/) 👨🏻‍💻
+ - Reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewschaer/) 👨🏻‍💻
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Andrewschaer)
 
